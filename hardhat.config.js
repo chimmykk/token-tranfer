@@ -12,7 +12,7 @@ module.exports = {
   networks: {
     pulsechain: {
       url: "https://rpc.pulsechain.com", // Replace with your PulseChain RPC URL
-      accounts: [""],
+      accounts: ["0xYOUR_PRIVATE_KEY"], // Replace with your private key
       chainId: 369
     }
   }
